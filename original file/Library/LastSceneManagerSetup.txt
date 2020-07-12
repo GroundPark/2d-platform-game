@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/00 Scene/make_character.unity
+  isLoaded: 1
+  isActive: 1
